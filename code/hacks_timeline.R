@@ -1,8 +1,11 @@
 library(ggplot2)
 library(tidyverse)
 
+data<-read_csv(url("https://raw.githubusercontent.com/RafaelAPB/SoKSPBlockchainInterop/main/data/all_bridge_hacks.csv?token=GHSAT0AAAAAACGL4YSXIT5ZHIEYESPYPGCGZKA622Q"))
+
 data <- data %>% mutate(value_mil = value/10^6)
-# Basic bubble plot in ggplot2
+
+data$date <- as.Date(data$date, format="%d/%m/%Y")
 
 plot1 <- data %>% ggplot(aes(x = date, y = 0)) +
   geom_point(aes(size=value_mil, color=value_mil), alpha=0.5) +
