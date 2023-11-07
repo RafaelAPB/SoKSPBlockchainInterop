@@ -40,5 +40,47 @@ This table provides an overview of significant hacks that occurred in various bl
 
 The data serves as a resource for understanding the magnitude and frequency of security breaches in the blockchain ecosystem.
 
-### Data File 2: list_classified_papers.csv
+### Data File 2 on Cross-Chain Transaction Papers: list_classified_papers.csv
+
+This table lists academic papers focused on cross-chain transactions, classified by reference, year, interoperability mode (I Mode), and whether they involve private chains.
+
+| Reference                                                                                      | Year | I Mode | Private Chains |
+|------------------------------------------------------------------------------------------------|------|--------|----------------|
+| Hedging Against Sore Loser Attacks in Cross-Chain Transactions                                 | 2021 | AE     | FALSE          |
+| A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking          | 2022 | AE     | FALSE          |
+| Bridging Sapling: Private Cross-Chain Transfers                                                | 2022 | AT     | TRUE           |
+| IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability | 2021 | AT     | FALSE          |
+| Xclaim: Trustless, interoperable, cryptocurrency-backed assets                                | 2019 | AE     | FALSE          |
+| Atomic cross-chain exchanges of shared assets                                                  | 2022 | AE     | FALSE          |
+| ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains                               | 2020 | AT     | FALSE          |
+| Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware                            | 2019 | AE     | FALSE          |
+| MAD-HTLC: Because HTLC is Crazy-Cheap to Attack                                                | 2021 | AE     | FALSE          |
+| ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero               | 2023 | AE     | TRUE           |
+| PTLC: Protect the Identity Privacy during Cross-Chain Asset Transaction More Effectively       | 2022 | AE     | FALSE          |
+| An Anonymous and Supervisory Cross-Chain Privacy Protection Protocol for Zero-Trust IoT Application | 2023 | AT     | TRUE           |
+| zkBridge: Trustless Cross-chain Bridges Made Practical                                         | 2022 | DT     | FALSE          |
+| JugglingSwap: Scriptless Atomic Cross-Chain Swaps                                              | 2020 | AE     | FALSE          |
+| Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol            | 2021 | AE     | FALSE          |
+| Bool Network: An Open, Distributed, Secure Cross-chain Notary Platform                         | 2022 | AT     | FALSE          |
+| Bifröst: a Modular Blockchain Interoperability API                                             | 2019 | DT     | FALSE          |
+| CrossTrustchain: Cross-Chain Interoperability using Multivariate Trust Models                  | 2023 | DT     | FALSE          |
+| A Voting-Based Blockchain Interoperability Oracle                                               | 2021 | AT     | FALSE          |
+| ARC: An Asynchronous Consensus and Relay Chain-based Cross-chain Solution to Consortium Blockchain | 2022 | DT     | FALSE          |
+| Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing        | 2021 | DT     | TRUE           |
+| HERMES: Fault-Tolerant Middleware for Blockchain Interoperability                              | 2022 | DT     | FALSE          |
+| TrustCross: Enabling Confidential Interoperability across Blockchains Using Trusted Hardware   | 2021 | DT     | TRUE           |
+| Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track)    | 2019 | DT     | TRUE           |
+| Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments     | 2022 | AE     | FALSE          |
+| BxTB: cross-chain exchanges of bitcoins for all Bitcoin wrapped tokens                         | 2022 | AE     | FALSE          |
+| Cross-chain deals and adversarial commerce                                                     | 2022 | AE     | FALSE          |
+| Research and Implementation of Cross-Chain Transaction Model Based on Improved Hash-Locking   | 2020 | AE     | FALSE          |
+| Atomic cross-chain swaps                                                                       | 2018 | AE     | FALSE          |
+| HyperService: Interoperability and Programmability Across Heterogeneous Blockchains            | 2019 | DT     | FALSE          |
+| Towards faster settlement in HTLC-based Cross-Chain Atomic Swaps                               | 2022 | AE     | FALSE          |
+| Lilac: Parallelizing Atomic Cross-Chain Swaps                                                  | 2022 | AE     | FALSE          |
+| SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs | 2022 | AT     | FALSE          |
+| Privacy-Preserving Decentralized Cryptocurrency Exchange without Price Manipulation            | 2022 | AE     | FALSE          |
+| HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain                     | 2023 | AT     | TRUE           |
+| XCC: Theft-Resilient and Collateral-Optimized Cryptocurrency-Backed Assets                     | 
+
 
