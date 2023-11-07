@@ -1,6 +1,6 @@
 # Supplementary Materials for: "SoK: Security and Privacy of Blockchain Interoperability"
 
-![](markmap.svg)
+![](TableOfContents.png)
 
 ## bridge_hacks
 
