@@ -1,5 +1,27 @@
 # Supplementary Materials for: "SoK: Security and Privacy of Blockchain Interoperability"
 
+```mermaid
+graph TD
+    A[Supplementary Materials for: "SoK: Security and Privacy of Blockchain Interoperability"] --> B[bridge_hacks]
+    A --> C[code]
+    A --> D[data]
+    A --> E[figures]
+
+    B --> B1["Incidence Response"]
+    B --> B2["The Hashes of Transactions and Addresses"]
+
+    C --> C1["SoKI.ipynb: Jupyter notebook"]
+    C --> C2["distribution_studies_by_year.R"]
+    C --> C3["hacks_timeline.R"]
+
+    D --> D1["all_bridge_hacks.csv: Significant security breaches"]
+    D --> D2["list_classified_papers.csv: Scholarly articles on cross-chain transactions"]
+
+    E --> E1["Figure 1: Papers Years Distribution"]
+    E --> E2["Figure 2: Timeline of Cross-Chain Hacks"]
+    E --> E3["Figure 3: Vulnerability-Attack-Mitigation Graph"]
+
+
 ## bridge_hacks
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px; color: #333;">
