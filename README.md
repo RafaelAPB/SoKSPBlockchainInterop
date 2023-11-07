@@ -20,7 +20,7 @@ graph TD
     E --> E1["Figure 1: Papers Years Distribution"]
     E --> E2["Figure 2: Timeline of Cross-Chain Hacks"]
     E --> E3["Figure 3: Vulnerability-Attack-Mitigation Graph"]
-
+```
 
 ## bridge_hacks
 
