@@ -20,6 +20,7 @@
 
     <h3>Figure 2: Timeline of Cross-Chain Hacks</h3>
     <img src="./figures/timeline_cross_chain_hacks.png" alt="Timeline of Cross-Chain Hacks" style="max-width: 100%; height: auto;" />
+    
   </div>
 
   <div style="flex: 50%;">
