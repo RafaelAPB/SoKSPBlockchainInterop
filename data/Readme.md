@@ -1,9 +1,7 @@
 This folder contains two key data files that provide comprehensive insights into security incidents within the blockchain space and academic papers classified by their focus areas.
 
 ## Files Overview
-###  Data File 1: all_bridge_hacks.csv
-
-# Blockchain Bridge Hacks Data
+###  Data File 1 on Blockchain Bridge Hacks Data: all_bridge_hacks.csv
 
 This table provides an overview of significant hacks that occurred in various blockchain bridges, detailing the date of each incident and the estimated value compromised.
 
