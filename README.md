@@ -1,4 +1,4 @@
-# SoK: Security and Privacy of Blockchain Interoperability
+# Replicable Data and Code for: "SoK: Security and Privacy of Blockchain Interoperability"
 
 ### Methodology
 
