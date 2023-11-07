@@ -1,3 +1,9 @@
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px; color: #333;">
+  <p style="margin: 0; color: #007bff;">
+This folder contains key visual representations related to blockchain security. It includes 'Papers Years Distribution', 'Timeline of Cross-Chain Hacks', and 'Vulnerability-Attack-Mitigation Graph', each offering insightful data visualization crucial for understanding the evolution and impact of security incidents in the blockchain domain.
+  </p>
+</div>
+
 <div>
   <h3>Figure 1: Papers Years Distribution</h3>
   <img src="./papers_years_distribution.png" alt="Papers Years Distribution" style="max-width: 100%; height: auto;" />
