@@ -7,6 +7,8 @@
 
 - [data](#data) - A repository of pivotal data files such as "all_bridge_hacks.csv" for security breaches across blockchain bridges and "list_classified_papers.csv" for a compilation of academic papers on cross-chain transactions.
 
+- [papers](#papers) - A repository of blockchain interoperability papers that consider security and/or privacy.
+
 - [figures](#figures) - Hosts key visual representations related to blockchain security, including graphs and timelines that offer insights into the evolution and impact of security incidents in the blockchain domain.
 
 
@@ -32,6 +34,14 @@ The `data` folder on GitHub is a comprehensive resource for those interested in 
 2. **list_classified_papers.csv**: Aimed at academics and researchers, this file compiles a list of scholarly articles focused on cross-chain transactions. These papers are sorted by title, publication year, interoperability mode, and their application in private blockchain environments. This compilation is an essential tool for those researching the evolving field of blockchain interoperability and privacy.
 
 These files are instrumental for professionals, researchers, and enthusiasts in the blockchain security domain, offering a blend of practical data and academic insights to foster a deeper understanding of blockchain vulnerabilities and advancements.
+
+## papers
+Here, we have a list of work done in the area of interoperability security and interoperability privacy. 
+
+| Year | Paper | Venue | Security Approach | Privacy Approach | Implementation
+|------|-------|-------|-------------------|-------------------|-------------------|
+| 2021 | Hermes: Fault-tolerant middleware for blockchain interoperability | Future Generation Computer Systems | Centralization,Permissioned Network, Inclusion Proofs | TEE | https://github.com/hyperledger/cacti/tree/main/packages/cactus-plugin-odap-hermes
+
 
 ## figures
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px; color: #333;">
