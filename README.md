@@ -40,62 +40,62 @@ Here, we have a list of work done in the area of interoperability security and i
 
 | Ref | Year | Security Approaches | Privacy Approaches | IMode |
 |---|:---:|:---:|:---:|:---:|
-| Scheid_Hegnauer_Rodrigues_Stiller_2019 | 2019 | Centralization | -- | DT |
-| shlomovits_jugglingswap_2020 | 2020 | Centralization | -- | AE |
-| patel_crosstrustchain_2023 | 2023 | Centralization | -- | DT |
-| zhang_pxcrypto_2023 | 2023 | Centralization | -- | AE |
-| Vishwakarma_Kumar_Das_2023 | 2023 | Centralization | -- | AT |
-| lan_trustcross_2021 | 2021 | Centralization, TEE | Zero-Knowledge Proofs | DT |
-| zhang_arc_2022 | 2022 | Centralization, Permissionless Network | -- | DT |
-| Ghaemi_Rouhani_Belchior_Cruz_Khazaei_Musilek_2021 | 2021 | Centralization, Permissionless Network,  Permissioned Network | -- | DT |
-| belchior_hermes_2022 | 2022 | Centralization,  Permissioned Network, Inclusion Proofs | TEE | AT |
-| abebe_enterprise_2019 | 2019 | Centralization,  Inclusion Proofs | -- | DT |
-| Tao_Li_Li_2023 | 2023 | Centralization, Inclusion Proofs | -- | AT |
-| Dai_Jiang_Zhu_Lu_Li_Li_2020 | 2020 | Centralization, Secret-based and Time-based Locks | -- | AE |
-| xu_ivycross_2021 | 2021 | TEE | TEE | DT |
-| bentov_tesseract_2019 | 2019 | TEE | -- | AE |
-| wang_intertrust_2021 | 2021 | TEE | -- | AE |
-| yin_bool_2022 | 2022 | TEE, Permissionless Network | Ring Signatures | AT |
-| montiel_surfermonkey_2022 | 2022 | Permissionless Network | Zero-Knowledge Proofs | DT |
-| sanchez_bridging_2022 | 2022 | Permissionless Network, Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
-| li_zerocross_2022 | 2023 | Permissionless Network, Validity Proofs | Zero-Knowledge Proofs | AE |
-| zamyatin_xclaim_2019 | 2019 | Permissionless Network, Inclusion Proofs, Validity Proofs | -- | AT |
-| zakhary_atomic_2020 | 2020 | Permissionless Network, Secret-based and Time-based Locks | -- | AE |
-| liu_hyperservice_2019 | 2019 | Permissioned Network | -- | DT |
-| sober_voting_based_2021 | 2021 | Permissioned Network | -- | DT |
-| tian_enabling_2021 | 2021 | Permissioned Network | -- | AE |
-| pang_abitbridge_2022 | 2022 | Permissioned Network | -- | AT |
-| yang_anonymous_2023 | 2023 | Permissioned Network | Zero-Knowledge Proofs | AT |
-| ghosh_leveraging_2021 | 2021 | Permissioned Network, Inclusion Proofs | -- | DT |
-| westerkamp_zkrelay_2020 | 2020 | Permissioned Network, Validity Proofs | -- | DT |
-| sun_decentralized_2022 | 2022 | Permissioned Network, Secret-based and Time-based Locks | -- | AE |
-| barbara_bxtb_2022 | 2022 | Inclusion Proofs | -- | AE |
-| westerkamp_verilay_2022 | 2022 | Inclusion Proofs | -- | DT |
-| stone2023webb | 2023 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
-| xie_zkbridge_2022 | 2022 | Inclusion Proofs, Validity Proofs | -- | AT |
-| Li_D_Angelo_Tang_Fang_Gong_2022 | 2022 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
-| frauenthaler_eth_2020 | 2020 | Inclusion Proofs, Fraud Proofs | -- | DT |
-| xue_hedging_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
-| narayanam_atomic_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
-| tsabary_mad_htlc_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
-| cai_ptlc_2022 | 2022 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
-| herlihy_atomic_2018 | 2018 | Secret-based and Time-based Locks | -- | AE |
-| mazumdar_towards_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
-| ding_lilac_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
-| bugnet_xcc_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
-| deshpande_privacy_preserving_2020 | 2020 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
-| kirsten_anonymous_2018 | 2018 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
-| zhang_privacy_preserving_2021 | 2021 | Secret-based and Time-based Locks | Zero-Knowledge Proofs | AE |
-| manevich_cross_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
-| li_privacy_preserving_2022 | 2022 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
-| hanzlik_sweep_uc_2022 | 2022 | Secret-based and Time-based Locks | Blind Signatures | AE |
-| thyagarajan_universal_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
-| Polygon_Wiki | 2023 | Centralization, Permissioned Network | -- | AT |
-| optimism_bridging_basics | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
-| arbitrum_bridging_tokens_2023 | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
-| Ronin_Docs_2023 | 2022 | Centralization, Permissioned Network | -- | AT |
-| zksync_bridging | 2023 | Permissioned Network, Validity Proofs | -- | DT |
-| connext | 2023 | Fraud Proofs | -- | AT |
+| Bifröst: a Modular Blockchain Interoperability API | 2019 | Centralization | -- | DT |
+| JugglingSwap: Scriptless Atomic Cross-Chain Swaps | 2020 | Centralization | -- | AE |
+| CrossTrustchain: Cross-Chain Interoperability using Multivariate Trust Models | 2023 | Centralization | -- | DT |
+| PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme | 2023 | Centralization | -- | AE |
+| CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol | 2023 | Centralization | -- | AT |
+| TrustCross: Enabling Confidential Interoperability across Blockchains Using Trusted Hardware | 2021 | Centralization, TEE | Zero-Knowledge Proofs | DT |
+| ARC: An Asynchronous Consensus and Relay Chain-based Cross-chain Solution to Consortium Blockchain | 2022 | Centralization, Permissionless Network | -- | DT |
+| A Pub-Sub Architecture to Promote Blockchain Interoperability | 2021 | Centralization, Permissionless Network,  Permissioned Network | -- | DT |
+| HERMES: Fault-Tolerant Middleware for Blockchain Interoperability | 2022 | Centralization,  Permissioned Network, Inclusion Proofs | TEE | AT |
+| Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track) | 2019 | Centralization,  Inclusion Proofs | -- | DT |
+| On Atomicity and Confidentiality Across Blockchains Under Failure | 2023 | Centralization, Inclusion Proofs | -- | AT |
+| Research and Implementation of Cross-Chain Transaction Model Based on Improved Hash-Locking | 2020 | Centralization, Secret-based and Time-based Locks | -- | AE |
+| IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability | 2021 | TEE | TEE | DT |
+| Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware | 2019 | TEE | -- | AE |
+| InterTrust: Towards an Efficient Blockchain Interoperability Architecture with Trusted Services | 2021 | TEE | -- | AE |
+| Bool Network: An Open, Distributed, Secure Cross-chain Notary Platform | 2022 | TEE, Permissionless Network | Ring Signatures | AT |
+| SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs | 2022 | Permissionless Network | Zero-Knowledge Proofs | DT |
+| Bridging Sapling: Private Cross-Chain Transfers | 2022 | Permissionless Network, Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero | 2023 | Permissionless Network, Validity Proofs | Zero-Knowledge Proofs | AE |
+| Xclaim: Trustless, interoperable, cryptocurrency-backed assets | 2019 | Permissionless Network, Inclusion Proofs, Validity Proofs | -- | AT |
+| Atomic Commitment Across Blockchains | 2020 | Permissionless Network, Secret-based and Time-based Locks | -- | AE |
+| HyperService: Interoperability and Programmability Across Heterogeneous Blockchains | 2019 | Permissioned Network | -- | DT |
+| A Voting-Based Blockchain Interoperability Oracle | 2021 | Permissioned Network | -- | DT |
+| Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol | 2021 | Permissioned Network | -- | AE |
+| AbitBridge: A cross-chain protocol based on main-sub-chain architecture | 2022 | Permissioned Network | -- | AT |
+| An Anonymous and Supervisory Cross-Chain Privacy Protection Protocol for Zero-Trust IoT Application | 2023 | Permissioned Network | Zero-Knowledge Proofs | AT |
+| Leveraging Public-Private Blockchain Interoperability for Closed Consortium Interfacing | 2021 | Permissioned Network, Inclusion Proofs | -- | DT |
+| zkRelay: Facilitating Sidechains using zkSNARK-based Chain-Relays | 2020 | Permissioned Network, Validity Proofs | -- | DT |
+| A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking | 2022 | Permissioned Network, Secret-based and Time-based Locks | -- | AE |
+| BxTB: cross-chain exchanges of bitcoins for all Bitcoin wrapped tokens | 2022 | Inclusion Proofs | -- | AE |
+| Verilay: A Verifiable Proof of Stake Chain Relay | 2022 | Inclusion Proofs | -- | DT |
+| Webb Protocol: A cross-chain private application and governance protocol | 2023 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| zkBridge: Trustless Cross-chain Bridges Made Practical | 2022 | Inclusion Proofs, Validity Proofs | -- | AT |
+| An Auditable Confidentiality Protocol for Blockchain Transactions | 2022 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains | 2020 | Inclusion Proofs, Fraud Proofs | -- | DT |
+| Hedging Against Sore Loser Attacks in Cross-Chain Transactions | 2021 | Secret-based and Time-based Locks | -- | AE |
+| Atomic cross-chain exchanges of shared assets | 2022 | Secret-based and Time-based Locks | -- | AE |
+| MAD-HTLC: Because HTLC is Crazy-Cheap to Attack | 2021 | Secret-based and Time-based Locks | -- | AE |
+| PTLC: Protect the Identity Privacy during Cross-Chain Asset Transaction More Effectively | 2022 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
+| Atomic cross-chain swaps | 2018 | Secret-based and Time-based Locks | -- | AE |
+| Towards faster settlement in HTLC-based Cross-Chain Atomic Swaps | 2022 | Secret-based and Time-based Locks | -- | AE |
+| Lilac: Parallelizing Atomic Cross-Chain Swaps | 2022 | Secret-based and Time-based Locks | -- | AE |
+| XCC: Theft-Resilient and Collateral-Optimized Cryptocurrency-Backed Assets | 2022 | Secret-based and Time-based Locks | -- | AE |
+| Privacy-preserving cross-chain atomic swaps | 2020 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
+| Anonymous Atomic Swaps Using Homomorphic Hashing | 2018 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
+| Privacy-Preserving Cross-Chain Payment Scheme for Blockchain-Enabled Energy Trading | 2021 | Secret-based and Time-based Locks | Zero-Knowledge Proofs | AE |
+| Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments | 2022 | Secret-based and Time-based Locks | -- | AE |
+| Privacy-Preserving Decentralized Cryptocurrency Exchange without Price Manipulation | 2022 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
+| Sweep-UC: Swapping Coins Privately | 2022 | Secret-based and Time-based Locks | Blind Signatures | AE |
+| Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains | 2021 | Secret-based and Time-based Locks | -- | AE |
+| Polygon | 2023 | Centralization, Permissioned Network | -- | AT |
+| Optimism | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
+| Arbitrum | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
+| Ronin | 2022 | Centralization, Permissioned Network | -- | AT |
+| zkSync | 2023 | Permissioned Network, Validity Proofs | -- | DT |
+| Connext | 2023 | Fraud Proofs | -- | AT |
 
 ## figures
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px; color: #333;">
