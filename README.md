@@ -38,10 +38,65 @@ These files are instrumental for professionals, researchers, and enthusiasts in 
 ## papers
 Here, we have a list of work done in the area of interoperability security and interoperability privacy. 
 
-| Year | Paper | Venue | Security Approach | Privacy Approach | Implementation
-|------|-------|-------|-------------------|-------------------|-------------------|
-| 2021 | Hermes: Fault-tolerant middleware for blockchain interoperability | Future Generation Computer Systems | Centralization,Permissioned Network, Inclusion Proofs | TEE | https://github.com/hyperledger/cacti/tree/main/packages/cactus-plugin-odap-hermes
-
+|  |  | Security | Privacy | Misc. |
+|---|:---:|:---:|:---:|:---:|
+| Ref | Year | Security Approaches | Privacy Approaches | IMode |
+| Scheid_Hegnauer_Rodrigues_Stiller_2019 | 2019 | Centralization | -- | DT |
+| shlomovits_jugglingswap_2020 | 2020 | Centralization | -- | AE |
+| patel_crosstrustchain_2023 | 2023 | Centralization | -- | DT |
+| zhang_pxcrypto_2023 | 2023 | Centralization | -- | AE |
+| Vishwakarma_Kumar_Das_2023 | 2023 | Centralization | -- | AT |
+| lan_trustcross_2021 | 2021 | Centralization, TEE | Zero-Knowledge Proofs | DT |
+| zhang_arc_2022 | 2022 | Centralization, Permissionless Network | -- | DT |
+| Ghaemi_Rouhani_Belchior_Cruz_Khazaei_Musilek_2021 | 2021 | Centralization, Permissionless Network,  Permissioned Network | -- | DT |
+| belchior_hermes_2022 | 2022 | Centralization,  Permissioned Network, Inclusion Proofs | TEE | AT |
+| abebe_enterprise_2019 | 2019 | Centralization,  Inclusion Proofs | -- | DT |
+| Tao_Li_Li_2023 | 2023 | Centralization, Inclusion Proofs | -- | AT |
+| Dai_Jiang_Zhu_Lu_Li_Li_2020 | 2020 | Centralization, Secret-based and Time-based Locks | -- | AE |
+| xu_ivycross_2021 | 2021 | TEE | TEE | DT |
+| bentov_tesseract_2019 | 2019 | TEE | -- | AE |
+| wang_intertrust_2021 | 2021 | TEE | -- | AE |
+| yin_bool_2022 | 2022 | TEE, Permissionless Network | Ring Signatures | AT |
+| montiel_surfermonkey_2022 | 2022 | Permissionless Network | Zero-Knowledge Proofs | DT |
+| sanchez_bridging_2022 | 2022 | Permissionless Network, Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| li_zerocross_2022 | 2023 | Permissionless Network, Validity Proofs | Zero-Knowledge Proofs | AE |
+| zamyatin_xclaim_2019 | 2019 | Permissionless Network, Inclusion Proofs, Validity Proofs | -- | AT |
+| zakhary_atomic_2020 | 2020 | Permissionless Network, Secret-based and Time-based Locks | -- | AE |
+| liu_hyperservice_2019 | 2019 | Permissioned Network | -- | DT |
+| sober_voting_based_2021 | 2021 | Permissioned Network | -- | DT |
+| tian_enabling_2021 | 2021 | Permissioned Network | -- | AE |
+| pang_abitbridge_2022 | 2022 | Permissioned Network | -- | AT |
+| yang_anonymous_2023 | 2023 | Permissioned Network | Zero-Knowledge Proofs | AT |
+| ghosh_leveraging_2021 | 2021 | Permissioned Network, Inclusion Proofs | -- | DT |
+| westerkamp_zkrelay_2020 | 2020 | Permissioned Network, Validity Proofs | -- | DT |
+| sun_decentralized_2022 | 2022 | Permissioned Network, Secret-based and Time-based Locks | -- | AE |
+| barbara_bxtb_2022 | 2022 | Inclusion Proofs | -- | AE |
+| westerkamp_verilay_2022 | 2022 | Inclusion Proofs | -- | DT |
+| stone2023webb | 2023 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| xie_zkbridge_2022 | 2022 | Inclusion Proofs, Validity Proofs | -- | AT |
+| Li_D_Angelo_Tang_Fang_Gong_2022 | 2022 | Inclusion Proofs, Validity Proofs | Zero-Knowledge Proofs | AT |
+| frauenthaler_eth_2020 | 2020 | Inclusion Proofs, Fraud Proofs | -- | DT |
+| xue_hedging_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
+| narayanam_atomic_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
+| tsabary_mad_htlc_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
+| cai_ptlc_2022 | 2022 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
+| herlihy_atomic_2018 | 2018 | Secret-based and Time-based Locks | -- | AE |
+| mazumdar_towards_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
+| ding_lilac_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
+| bugnet_xcc_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
+| deshpande_privacy_preserving_2020 | 2020 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
+| kirsten_anonymous_2018 | 2018 | Secret-based and Time-based Locks | Homomorphic Encryption | AE |
+| zhang_privacy_preserving_2021 | 2021 | Secret-based and Time-based Locks | Zero-Knowledge Proofs | AE |
+| manevich_cross_2022 | 2022 | Secret-based and Time-based Locks | -- | AE |
+| li_privacy_preserving_2022 | 2022 | Secret-based and Time-based Locks | Adaptor Signatures | AE |
+| hanzlik_sweep_uc_2022 | 2022 | Secret-based and Time-based Locks | Blind Signatures | AE |
+| thyagarajan_universal_2021 | 2021 | Secret-based and Time-based Locks | -- | AE |
+| Polygon_Wiki | 2023 | Centralization, Permissioned Network | -- | AT |
+| optimism_bridging_basics | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
+| arbitrum_bridging_tokens_2023 | 2023 | Centralization, Permissioned Network, Fraud Proofs | -- | AT |
+| Ronin_Docs_2023 | 2022 | Centralization, Permissioned Network | -- | AT |
+| zksync_bridging | 2023 | Permissioned Network, Validity Proofs | -- | DT |
+| connext | 2023 | Fraud Proofs | -- | AT |
 
 ## figures
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px; color: #333;">
