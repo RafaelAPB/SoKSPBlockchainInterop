@@ -38,9 +38,8 @@ These files are instrumental for professionals, researchers, and enthusiasts in 
 ## papers
 Here, we have a list of work done in the area of interoperability security and interoperability privacy. 
 
-|  |  | Security | Privacy | Misc. |
-|---|:---:|:---:|:---:|:---:|
 | Ref | Year | Security Approaches | Privacy Approaches | IMode |
+|---|:---:|:---:|:---:|:---:|
 | Scheid_Hegnauer_Rodrigues_Stiller_2019 | 2019 | Centralization | -- | DT |
 | shlomovits_jugglingswap_2020 | 2020 | Centralization | -- | AE |
 | patel_crosstrustchain_2023 | 2023 | Centralization | -- | DT |
