@@ -81,6 +81,5 @@ This table lists academic papers focused on cross-chain transactions, classified
 | SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs | 2022 | AT     | FALSE          |
 | Privacy-Preserving Decentralized Cryptocurrency Exchange without Price Manipulation            | 2022 | AE     | FALSE          |
 | HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain                     | 2023 | AT     | TRUE           |
-| XCC: Theft-Resilient and Collateral-Optimized Cryptocurrency-Backed Assets                     | 
-
+| XCC: Theft-Resilient and Collateral-Optimized Cryptocurrency-Backed Assets                     | 2022 | AT     | FALSE          |
 
