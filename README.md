@@ -36,7 +36,7 @@ The `data` folder on GitHub is a comprehensive resource for those interested in 
 These files are instrumental for professionals, researchers, and enthusiasts in the blockchain security domain, offering a blend of practical data and academic insights to foster a deeper understanding of blockchain vulnerabilities and advancements.
 
 ## papers
-Here, we have a list of work done in the area of interoperability security and interoperability privacy. 
+Here, we have a list of work done in the area of interoperability security and interoperability privacy. Please add your paper to this list via a pull request.
 
 | Ref | Year | Security Approaches | Privacy Approaches |
 |---|:---:|:---:|:---:|
@@ -120,6 +120,9 @@ This folder contains key visual representations related to blockchain security. 
     <img src="./figures/vuln-att-mitig-graph.png" alt="Vulnerability-Attack-Mitigation Graph" style="max-width: 100%; height: auto;" />
   </div>
 </div>
+
+## recommended citation
+tbd 
 
 
 
