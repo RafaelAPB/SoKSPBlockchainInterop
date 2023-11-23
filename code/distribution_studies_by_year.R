@@ -2,7 +2,7 @@ library(ggplot2)
 library(tidyverse)
 
 // TODO: Once the repo is public we need to remove the token
-data<-read_csv(url("https://raw.githubusercontent.com/RafaelAPB/SoKSPBlockchainInterop/main/data/list_classified_papers.csv?token=GHSAT0AAAAAACGL4YSXIVMPR6LWVRXOKPNCZKBBEBQ"))
+data<-read_csv(url("https://raw.githubusercontent.com/RafaelAPB/SoKSPBlockchainInterop/main/data/list_classified_papers.csv"))
 
 ggplot(data, aes(Year)) +
   geom_histogram(color = "white", fill = "#AAD8FB", binwidth=1) +
