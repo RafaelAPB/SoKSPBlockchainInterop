@@ -1,7 +1,6 @@
 library(ggplot2)
 library(tidyverse)
 
-// TODO: Once the repo is public we need to remove the token
 data<-read_csv(url("https://raw.githubusercontent.com/RafaelAPB/SoKSPBlockchainInterop/main/data/all_bridge_hacks.csv"))
 
 data <- data %>% mutate(value_mil = value/10^6)
