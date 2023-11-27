@@ -12,7 +12,7 @@ plot1 <- data %>% ggplot(aes(x = date, y = 0)) +
   labs(x="Date", y="Cross-Chain Bridge Hacks", title="California Test Score Data") +
   scale_color_continuous(limits=c(0, 600), breaks=c(5, 100, 400, 600), name="Amount Hacked (Million USD)", labels = c("5", "100", "400", "600")) +
   scale_size_continuous(range = c(3, 30), limits=c(0, 600), breaks=c(5, 100, 400, 600), name="Amount Hacked (Million USD)", labels = c("5", "100", "400", "600")) +
-  scale_x_date(limits = as.Date(c("2021-07-01", "2023-11-01")), date_labels="%Y-%m", date_breaks  ="1 month") +
+  scale_x_date(limits = as.Date(c("2021-07-01", "2023-12-01")), date_labels="%Y-%m", date_breaks  ="1 month") +
   scale_y_continuous(breaks = seq(0, 100, 1)) +
   guides(color= guide_legend(title.hjust = 0.5), size=guide_legend(title.hjust = 0.5)) +
   theme_minimal() +
