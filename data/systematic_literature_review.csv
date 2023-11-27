@@ -5,12 +5,12 @@ previous_reports,NA,box1,Reports of studies included in previous version of revi
 NA,node6,newstud,Yellow title box; Identification of new studies via Google Scholar,Identification of new studies via Google Scholar,Yellow title box; Identification of new studies via Google Scholar,NA,0
 database_results,node7,box2,Records identified from Google Scholar,Google Scholar,Records identified from Google Scholar,NA,300
 database_specific_results,NA,box2,Records identified from: specific databases,Specific Databases,NA,NA,"Database 1, xxx; Database 2, xxx; Database 3, xxx"
-register_results,NA,box2,Records identified from: Registers,Registers,NA,NA,NA
+register_results,NA,box2,Records identified from: Registers,Snowballing + Adhoc + Alerts,NA,NA,NA
 register_specific_results,NA,box2,Records identified from: specific registers,Specific Registers,NA,NA,"Register 1, xxx; Register 2, xxx; Register 3, xxx"
 NA,node16,othstud,Grey title box; Identification of new studies via other methods,Identification of new studies via other methods,Grey title box; Identification of new studies via other methods,NA,0
-website_results,node17,box11,Records identified from: Snowballing + Adhoc + Alerts,Snowballing + Adhoc + Alerts,"Records identified from: Websites, Organisations and Citation Searching",NA,111
-citations_results,NA,box11,Records identified from: Grey Literature,Grey Literature,NA,NA,0
-organisation_results,,box11,Records identified from: Audit Reports,Audit Reports,NA,NA,9
+website_results,node17,box11,Records identified from: Snowballing + Adhoc + Alerts,Snowballing + Adhoc + Alerts,"Records identified from: Snowballing + Adhoc + Alerts",NA,111
+citations_results,NA,box11,Records identified from: Grey Literature,Grey Literature,NA,NA,96
+organisation_results,,box11,Records identified from: Audit Reports,Audit Reports,NA,NA,24
 duplicates,node8,box3,Duplicate records,Duplicate records,Duplicate records,NA,5
 excluded_automatic,NA,box3,Records removed for not being in English,Records removed for not being in English,NA,NA,2
 excluded_other,NA,NA,Records removed for other reasons,Records removed for other reasons,NA,NA,NA
@@ -18,14 +18,14 @@ records_screened,node9,box4,Records screened (databases and registers),Records s
 records_excluded,node10,box5,Records excluded (databases and registers),Records excluded,Records excluded (databases and registers),NA,198
 dbr_sought_reports,node11,box6,Reports sought for retrieval (databases and registers),Reports sought for retrieval,Reports sought for retrieval (databases and registers),NA,95
 dbr_notretrieved_reports,node12,box7,Reports not retrieved (databases and registers),Reports not retrieved,Reports not retrieved (databases and registers),NA,4
-other_sought_reports,node18,box12,Reports sought for retrieval (other),Reports sought for retrieval,Reports sought for retrieval (other),NA,120
-other_notretrieved_reports,node19,box13,Reports not retrieved (other),Reports not retrieved,Reports not retrieved (other),NA,9
+other_sought_reports,node18,box12,Reports sought for retrieval (other),Reports sought for retrieval,Reports sought for retrieval (other),NA,231
+other_notretrieved_reports,node19,box13,Reports not retrieved (other),Reports not retrieved,Reports not retrieved (other),NA,0
 dbr_assessed,node13,box8,Reports assessed for eligibility (databases and registers),Reports assessed for eligibility,Reports assessed for eligibility (databases and registers),NA,91
-dbr_excluded,node14,box9,"Reports excluded (databases and registers): [separate reasons and numbers using ; e.g. Reason1, xxx; Reason2, xxx; Reason3, xxx]",Reports excluded,Reports excluded (databases and registers),NA,"Focus on Blockchain, 12; Security of Smart Contracts, 9; Not related to Security or Privacy, 12"
-other_assessed,node20,box14,Reports assessed for eligibility (other),Reports assessed for eligibility,Reports assessed for eligibility (other),NA,111
-other_excluded,node21,box15,"Reports excluded (other): [separate reasons and numbers using ; e.g. Reason1, xxx; Reason2, xxx; Reason3, xxx]",Reports excluded,Reports excluded (other),NA,"Focus on Blockchain, 27; Security of Smart Contracts, 6; Not related to Security or Privacy, 18; Other, 11"
-new_studies,node15,box10,Studies included from GS,Studies included from GS,Studies included from GS,NA,58
-new_reports,NA,box10,Studies included from Other Sources,Studies included from Other Sources,NA,NA,49
+dbr_excluded,node14,box9,"Reports excluded (databases and registers): [separate reasons and numbers using ; e.g. Reason1, xxx; Reason2, xxx; Reason3, xxx]",Reports excluded,Reports excluded (databases and registers),NA,"Not cross-chain relevant, 12; Security of Smart Contracts, 9; Not related to Security or Privacy, 12;"
+other_assessed,node20,box14,Reports assessed for eligibility (other),Reports assessed for eligibility,Reports assessed for eligibility (other),NA,231
+other_excluded,node21,box15,"Reports excluded (other): [separate reasons and numbers using ; e.g. Reason1, xxx; Reason2, xxx; Reason3, xxx]",Reports excluded,Reports excluded (other),NA,"Not cross-chain relevant, 42; Security of Smart Contracts, 6; Not related to Security or Privacy, 18; Other, 11"
+new_studies,node15,box10,Studies included from Google Scholar,Studies included from Google Scholar,Studies included from Google Scholar,NA,58
+new_reports,NA,box10,Studies included from Other Sources,Studies included from Other Sources,NA,NA,154
 total_studies,node22,box16,Total studies included,Total studies included,Total studies included in review,NA,0
 total_reports,NA,box16,Reports of total included studies,Reports of total included studies,NA,NA,0
 identification,node1,identification,Blue identification box,Identification,Blue identification box,NA,0
