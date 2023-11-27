@@ -6,7 +6,7 @@ This folder contains key visual representations related to our study. It include
 
 <div>
   <h3>Figure 1: Systematic Literature Review</h3>
-  <img src="./systematic_literature_review" alt="Systematic Literature Review" style="max-width: 100%; height: auto;" />
+  <img src="./systematic_literature_review.png" alt="Systematic Literature Review" style="max-width: 100%; height: auto;" />
 
   <h3>Figure 2: Papers Years Distribution</h3>
   <img src="./papers_years_distribution.png" alt="Papers Years Distribution" style="max-width: 100%; height: auto;" />
