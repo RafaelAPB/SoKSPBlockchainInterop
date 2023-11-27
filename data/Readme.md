@@ -84,6 +84,6 @@ This table lists academic papers focused on cross-chain transactions, classified
 | HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain                     | 2023 | AT     | TRUE           |
 | XCC: Theft-Resilient and Collateral-Optimized Cryptocurrency-Backed Assets                     | 2022 | AT     | FALSE          |
 
-### Data File 3 on Systematic Literature Review: list_classified_papers.csv
+### Data File 3 on Systematic Literature Review: systematic_literature_review.csv
 
 The table serves as input to the [PRISMA diagram R package](https://github.com/prisma-flowdiagram/PRISMA2020/tree/main)
