@@ -1,4 +1,8 @@
-# Supplementary Materials for: "SoK: Security and Privacy of Blockchain Interoperability"
+# SoK: Security and Privacy of Blockchain Interoperability
+
+Read the extended version of our paper [here](https://www.techrxiv.org/articles/preprint/SoK_Security_and_Privacy_of_Blockchain_Interoperability/24595764)
+
+## Supplementary Materials
 
 ![](TableOfContents.png)
 
