@@ -126,7 +126,19 @@ This folder contains key visual representations related to blockchain security. 
 </div>
 
 ## recommended citation
-tbd 
+
+A. Augusto, R. Belchior, M. Correia, A. Vasconcelos, L. Zhangand T. Hardjono, “SoK: Security and Privacy of Blockchain Interoperability”. TechRxiv, 29-Nov-2023, doi: 10.36227/techrxiv.24595764.v1.
+
+#### bibtex
+
+@article{Augusto2023,
+author = "André Augusto and Rafael Belchior and Miguel Correia and André Vasconcelos and Luyao Zhang and Thomas Hardjono",
+title = "{SoK: Security and Privacy of Blockchain Interoperability}",
+year = "2023",
+month = "11",
+url = "https://www.techrxiv.org/articles/preprint/SoK_Security_and_Privacy_of_Blockchain_Interoperability/24595764",
+doi = "10.36227/techrxiv.24595764.v1"
+}
 
 
 
