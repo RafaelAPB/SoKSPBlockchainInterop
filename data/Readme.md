@@ -37,7 +37,9 @@ This table provides an overview of significant hacks that occurred in various bl
 | Nerve           | 15/11/2021 | $537,000     |
 | Allbridge       | 01/04/2023 | $573,000     |
 | Mixin Network   | 23/09/2023 | $200,000,000 |
-| Hecko Bridge    | 22/11/2023 | $99,000,000 |
+| Hecko Bridge    | 22/11/2023 | $99,000,000  |
+| Orbit Bridge    | 31/12/2023 | $81,880,000  |
+| Socket          | 16/01/2024 | 3,300,000    |
 
 The data serves as a resource for understanding the magnitude and frequency of security breaches in the blockchain ecosystem.
 
